@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+      font-family: "Lilita One", sans-serif;
+
+}
+.container{
+    padding-left: 200px;
+    gap: 54px;
+    padding-top: 100px;
+}
+.section{
+    display: flex;
+  
+}
+.section1{
+    background-color: #A08383;
+    width: 375px;
+    height: 812px;
+}
+.section2{
+    background-color: #A08383;
+    width: 375px;
+    height: 812px;
+}
+.section3{
+    background-color: #A08383;
+    width: 375px;
+    height: 812px;
+}
+.section4{
+    background-color: #A08383;
+    width: 375px;
+    height: 812px;
+}
+.section5{
+    background-color: #A08383;
+    width: 375px;
+    height: 812px;
+}
+.section1 h1{
+    padding-left: 71px;
+    padding-top: 55px;
+}
+.img1{
+    width: 307px;
+    height: 236px;
+    margin-left: 38px;
+    margin-top: 8px;
+}
+.section1 p{
+    width: 270px;
+    height: 71px;
+    background-color: #D96262;
+    margin-top: 40px;
+    margin-left: 52px;
+    color: #513B3B;
+    font-size: 36px;
+    font-weight: 400;
+    padding-top: 15px;
+    padding-left: 54px;
+}
+.div1{
+    display: flex;
+}
+.i2{
+    width: 153px;
+    height: 59px;
+    margin-top: 70px;
+    margin-left: 38px;
+}
+.i3{
+    width: 247px;
+    height: 85px;
+    margin-top: 56px;
+    position: relative;
+    left: -40px;
+}
+.rasm{
+    width: 347px;
+    height: 177px;
+    margin-top: 58px;
+    margin-left: 14px;
+}
+.section2 h1{
+    color: #513B3B;
+    font-size: 48px;
+    font-weight: 400;
+    padding-left: 77px;
+}
+.h3{
+    color: #E7EC07;
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-left: 132px;
+}
+.legend{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+.leg1{
+    width: 109px;
+    height: 106px;
+}
+.leg2{
+    width: 61px;
+    height: 102px;
+}
+.leg3{
+    width: 157px;
+    height: 107px;
+    position: relative;
+    left: -30px;
+}
+.leg4{
+    width: 157px;
+    height: 101px;
+    position: relative;
+    left: -100px;
+}
+.h4{
+    color: #E32E22;
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 5px;
+    padding-left: 135px;
+}
+.legend2{
+    display: flex;
+    padding-left: 10px;
+}
+.lege1{
+    width: 86px;
+    height: 115px;
+}
+.lege2{
+    width: 120px;
+    height: 113px;
+}
+.lege3{
+    width: 51px;
+    height: 104px;
+    margin-top:5px;
+}
+.lege4{
+    width: 74px;
+    height: 105px;
+    margin-left: 15px;
+    margin-top:5px;
+}
+.legend3{
+    display: flex;
+    padding-left: 0px;
+}
+.h5{
+    font-size: 24px;
+    font-weight: 400;
+    color: #A622E3;
+    padding-top: 11px;
+    padding-left: 157px;
+}
+.legen1{
+    width: 175px;
+    height: 133px;
+    position: relative;
+    left: -45px;
+}
+.legen2{
+    width: 156px;
+    height: 145px;
+    position: relative;
+    left: -130px;
+}
+.legen3{
+    width: 154px;
+    height: 122px;
+    position: relative;
+    left: -200px;
+}
+.legen4{
+    width: 162px;
+    height: 121px;
+    position: relative;
+    left: -250px;
+}
+.logo{
+    width: 213px;
+    height: 149px;
+    margin-left: 81px;
+    margin-top: 62px;
+}
+.game{
+    color: #513B3B;
+    font-size: 48px;
+    font-weight: 400;
+    padding-left: 67px;
+}
+.div3{
+    margin-top: 18px;
+    margin-left: 35px;
+}
+.mode2{
+margin-left: 55px;
+}
+.div4{
+    margin-top: 35px;
+    margin-left: 48px;
+}
+.mode4{
+margin-left: 72px;
+}
+.div5{
+    margin-top: 35px;
+    margin-left: 48px;
+}
+.mode6{
+    margin-left: 77px;
+}
+.brawlpass{
+    width: 231px;
+    height: 231px;
+    margin-left: 68px;
+    margin-top: 28px;
+}
+.section4 h1{
+    font-size: 48px;
+    font-weight: 400;
+    color: #513B3B;
+    line-height: 100%;
+    position: relative;
+    top: -38px;
+    padding-left: 81px;
+}
+.section4 h5{
+    font-size: 20px;
+    font-weight: 400;
+    width: 302px;
+    height: 216px;
+    line-height: 120%;
+    padding-left: 36px;
+}
+.brawlplayer{
+    width: 247px;
+    height: 258px;
+    margin-left: 62px;
+}
+.section5 h1{
+        font-size: 48px;
+    font-weight: 400;
+    color: #513B3B;
+    line-height: 100%;
+    position: relative;
+    text-align: center;
+    padding-top: 70px;
+}
+.section5 p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%;
+    padding-left: 49px;
+    padding-top: 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
